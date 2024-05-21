@@ -1,0 +1,3 @@
+draft_v3.tex
+draft_v3.pdf
+globalRefDB.bib
