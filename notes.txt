@@ -1,0 +1,4 @@
+# NOTE
+
+draft_v3.*, globalRefDB.bib are from private repo commit 2478159d9fc00eb172ea6b019b0ec2ba6347acc8
+
